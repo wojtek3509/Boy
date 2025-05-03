@@ -195,4 +195,4 @@ async def roblox(ctx):
     await ctx.send(embed=embed, view=RobloxView())
 
 # Wstaw swój token poniżej
-bot.run("your_token")
+bot.run("MTM2MjEwODEwMDE3NzQyODU3MA.GUma9W.wSAZP44_PG-ZF6FToSeDMSYAAEePd52LENNpj8")
